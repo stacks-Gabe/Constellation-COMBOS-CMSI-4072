@@ -1,0 +1,33 @@
+
+CMSI 4072 Spring 2026
+Project Proposal Feedback
+Project: Constellation Combos
+=========================
+Proposal Document [2 points]:
+   Verbal Description:
+      This section lays out a clear explanation of what the project does, as
+      well as providing an explanation of the games goals during play.  You
+      include a brief explanation of what knowledge from your courses the
+      project will use.  However, this is very light on content and really
+      only does minimal justice as a proposal.
+   Justification Section:
+      Because this document is so minimal, there really is no justification
+      section.  You should re-read the requirements on the course website to
+      be sure you understand what is required for future submissions.
+
+Proposal Presentation [Slides and video] [3 points]:
+   Slides:
+      Nice work on the slides!  Very imaginative graphics, and you do a much
+      better job here of describing what your project is "about".  I like
+      the alien at the end...  :D
+
+   Video:
+
+
+Summary:
+--------
+
+Not bad overall, but it doesn't seem that you put your heart into these
+deliverables.
+
+Will update after video is posted.
