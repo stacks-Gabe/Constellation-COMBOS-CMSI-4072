@@ -21,7 +21,6 @@ Proposal Presentation [Slides and video] [3 points]:
       better job here of describing what your project is "about".  I like
       the alien at the end...  :D
 
-   Video:
 
 
 Summary:
@@ -31,3 +30,14 @@ Not bad overall, but it doesn't seem that you put your heart into these
 deliverables.
 
 Will update after video is posted.
+
+
+VIDEO EVALUATION
+================
+Good work on the presentation.  You seem to be talking from your knowledge
+of the project and how it is constructed.  I think saving the actual game
+description until the end is a novel approach to the presentation which
+perhaps leaves the audience with a longer-lasting impression of the game
+experience.
+
+Good job overall.  Five out of Five points for this deliverable.
