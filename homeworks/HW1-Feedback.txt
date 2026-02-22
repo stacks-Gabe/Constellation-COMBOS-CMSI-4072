@@ -1,0 +1,59 @@
+
+
+HW 1 - Stephens Book Chapters 1, 2, 4, and 5
+CMSI 4072 Spring 2026
+
+Category        Weight     Earned
+===========    ========    ======
+Problem 1.1    [8 pts.]       6.0
+Problem 1.2    [8 pts.]       6.0
+Problem 2.4    [1 pts.]       1.0
+Problem 2.5    [1 pts.]       1.0
+Problem 4.2    [5 pts.]       5.0
+Problem 4.4    [5 pts.]       5.0
+Problem 4.6    [1 pts.]       1.0
+Problem 4.8    [2 pts.]       1.0
+Problem 5.1    [1 pts.]       1.0
+Problem 5.3    [5 pts.]       4.0
+Problem 5.9    [3 pts.]       3.0
+
+      Subtotal [50 max]      40.0
+             Your Total      34.0
+
+         Letter grade   B
+
+=================
+SPECIFIC COMMENTS:
+
+Problem 1.1 ~ This doesn’t answer the usual intent of 1.1 (e.g.,
+   identifying/ordering lifecycle phases or enumerating required
+   deliverables for a phase). It stays high-level and largely
+   restates “document things well.”
+
+Problem 1.2 ~ Partially addresses process/deliverables, but it’s very
+   brief and omits many essentials typically expected (e.g., test
+   planning/artifacts, review/traceability, acceptance criteria).
+
+Problem 2.4 ~ correct
+
+Problem 2.5 ~ correct
+
+Problem 4.2 ~ correct
+
+Problem 4.4 ~ correct
+
+Problem 4.6 ~ correct
+
+Problem 4.8 ~ doesn't actually address the main two problems as defined in
+   the text
+
+Problem 5.1 ~ correct
+
+Problem 5.3 ~ Looks like an attempt to classify requirements (FURPS), but
+   without tying items to categories or avoiding repetition. Lacks
+   substance/examples.
+
+Problem 5.9 ~ correct
+
+
+not bad!
