@@ -1,0 +1,4 @@
+Everything is going pretty well. I am trying to
+finish implementing the last enemy attack that is
+native to the original game. Once that is done I can
+start the process of adding the new player attack.
