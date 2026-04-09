@@ -1,0 +1,77 @@
+
+
+HW 3 - Stephens Book Chapters 7 and 8
+CMSI 4072 Spring 2026
+
+Category        Weight     Earned
+===========    ========    ======
+Problem 7.1    [5 pts.]      5.0
+Problem 7.2    [4 pts.]      3.0
+Problem 7.4    [5 pts.]      5.0
+Problem 7.5    [4 pts.]      3.0
+Problem 7.7    [5 pts.]      5.0
+Problem 8.1    [5 pts.]      2.0
+Problem 8.3    [5 pts.]      4.0
+Problem 8.5    [4 pts.]      4.0
+Problem 8.9    [4 pts.]      4.0
+Problem 8.11   [5 pts.]      5.0
+Problem 8.12   [4 pts.]      4.0
+
+       Subtotal [50 max]     50.0
+              Your Total     44.0
+         44.0 out of 50.0 =  88.0%
+
+         Letter grade   B-plus
+
+=================
+SPECIFIC COMMENTS:
+Problem 7.1
+   Correct
+Problem 7.2
+   You could say a bit more here ~ the answer isn't WRONG, it's just not
+   very COMPLETE...
+Problem 7.4
+   Correct
+Problem 7.5
+   I *think* I understand the thrust of what you're saying, but reading it
+   as written, it makes no sense.  You don't "add" black box testing, you
+   "use" it.  Also, the fact that you use black box testing, or any other
+   method, doesn't make sure the function outputs what is right ~ whatever
+   test method you use, you put in the inputs and get out the outputs.  The
+   TEST METHOD has nothing to do with correct output, only with allowing
+   the tester to SEE THE OUTPUTS, given the inputs, and either knowing or
+   not knowing how he function operates.  Perhaps this is what you mean, but
+   the languags is confusing your answer!
+Problem 7.7
+   Correct
+Problem 8.1
+   This test program doesn't test the "isRelativelyPrime()" function because
+   it NEVER CALLS THE FUNCTION!  ACK!
+Problem 8.3
+   The test method in the previous problem is NOT 'exhaustive' because it
+   doesn't test all the possible combinations of input values.  What you say
+   about the testing types shows you don't really understand them.  I would
+   respectfully suggest you go back and re-read that portion of the text.
+   ...or ask ChatGPT...  :D
+   In plain English:
+      Black Box ~ no idea how function works, only need inputs and need to
+         observe outputs are correct for those inputs
+      White Box ~ you know how the function works, so that if some output is
+         incorrect, you can see where the function is messing up
+      Grey Box ~ a little of both; you may know how the function works, but
+         you don't really need that knoweldge except in extreme cases
+      Exhaustive ~ tests every possible combination of inputs, REGARDLESS of
+         whether you know HOW the function works, but being mindful of the
+         complete input set as well as its edge cases; YOU CAN do this with
+         functions that take integers, but NOT with functions that use only
+         floats or doubles as input
+Problem 8.5
+   Correct
+Problem 8.9
+   Correct
+Problem 8.11
+   Correct
+Problem 8.12
+   Correct
+
+nice work!
