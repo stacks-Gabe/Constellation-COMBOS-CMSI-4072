@@ -1,0 +1,53 @@
+
+Documentation Feedback ~ Deliverable #4
+Software Design Document ~ Detailed Design
+CMSI 4072 Spring 2026
+==========================================
+
+DETAILED CLASS DESCRIPTIONS:
+   Strengths
+
+   Suggestions
+
+
+DETAILED INTERFACE DESCRIPTIONS:
+   Strengths
+
+   Suggestions
+
+
+DETAILED DATA STRUCTURE DESCRIPTIONS:
+   Strengths
+
+   Suggestions
+
+
+DETAILED DESIGN DIAGRAMS:
+   Strengths
+
+   Suggestions
+
+
+DATABASE DESIGN AND DESCRIPTION:
+   Strengths
+
+   Suggestions
+
+
+
+----------------------------------------------
+OVERALL ASSESSMENT:
+   Category                          Points
+   Class Descriptions:                  0 of  3
+   Interface Descriptions:              0 of  3
+   Data structure Descriptions:         0 of  1
+   Design diagrams:                     0 of  3
+   Database design/descriptions:        2 of  2    [this is a gimme]
+                                     ===========
+   Subtotal                             0 of 10
+   ------------------------------------------------------
+   Total Percentage:  0/10 = 100% which is an F on this deliverable.
+
+The document was not submitted by the due date, no other arrangements were
+made in advance.  Document was not located in repository by March 3 which
+is nearly a week past the due date.  Zero points for this deliverable.
