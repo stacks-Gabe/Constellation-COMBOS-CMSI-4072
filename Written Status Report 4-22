@@ -1,0 +1,16 @@
+Contellation COMBOS has a final assets done for new attack and has a flow graph of how the attack will work.
+
+Description of attack:
+
+Once an attack oppurtunity starts, the combo will start.
+
+1. Both players have to fill out stars from The Big Dipper constellation
+2. To fill out a star, you players must correctly input an array of inputs
+3. An array of inputs is built off of P1's controls (WASD) and P2's controls (U,D,L,R) randomly
+4. If the players succesfully press each input in the alloted time they add a star
+5. If they misinput, then the attack finishes and will do damage proportional to the amount of stars succesfully added
+6. If they complete the constellation, then the attack finished and do damage porportional to the amount of stars succesfully added (one shot)
+
+Immplementation update:
+So far I have the assets and it builds the string of attacks visually displaying it, but I don't have it attached to any inputs.
+So that will be the next thing on the to-do list
