@@ -2,4 +2,4 @@
 
 ## About
 Constellation COMBOS is a two player rpg combat sim. Play and successfully complete
-mini-games to continue COMBBOING!
+mini-games to continue COMBOING!
